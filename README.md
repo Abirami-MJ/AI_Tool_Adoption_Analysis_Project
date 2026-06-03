@@ -1,4 +1,4 @@
-#** AI Tool Adoption Trend Analysis **
+** AI Tool Adoption Trend Analysis **
 
 ## Project Overview
 
